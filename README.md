@@ -59,7 +59,7 @@ There are a total of 22 slokas for chapter 1. Clicking on a sloka displays its c
 
 ![image](https://github.com/user-attachments/assets/90610889-fd35-471e-9b98-b3329e735c8c)
 
-[Learning The Bhagvad-Gita....📖📖📖]((https://bhagvad-gita-api-48d8f2.netlify.app))
+[Learning The Bhagvad-Gita....📖📖📖](https://bhagvad-gita-api-48d8f2.netlify.app)
 
 
 
